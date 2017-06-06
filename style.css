@@ -1,0 +1,44 @@
+html,body { 
+  background: url(http://www.imgbase.info/images/safe-wallpapers/anime/pokemon/41396_pokemon.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+position:relative;
+
+}
+
+.form-control{
+
+position: absolute;
+top:65px;
+
+}
+
+.searchPokemon{
+position: absolute;
+left:50%;
+top:100px;
+}
+
+h1{
+   position: absolute;
+   z-index:100;
+   top:0px;
+   left:320px;
+    color: white;
+    }
+
+#buttons{
+position: absolute;
+   z-index:100;
+   top:140px;
+   left:380px;
+  
+}
+#gifArea{
+   position: absolute;
+   z-index:100;
+   top:180px;
+   left:250px; 
+}
